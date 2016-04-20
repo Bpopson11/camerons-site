@@ -1,0 +1,19 @@
+.section .cfie {
+  background-color: #50948e;
+  font-family: Helvetica,Arial,Sans-Serif;
+}
+
+a span {
+  font-family: Georgia,Serif;
+  font-size: 60px;
+  line-height: 100px;
+}
+
+#main #content {
+  background-color: transparent;
+}
+
+a img {
+  background-color: transparent;
+}
+
